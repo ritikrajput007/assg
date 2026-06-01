@@ -1,2 +1,3 @@
 # assg
-This is repository of assignments
+This is Repository of Assignments
+Author - Ritik
